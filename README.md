@@ -1,4 +1,4 @@
-# 🎬 Filmbuddy — Personalized Movie Recommendation Platform
+# 🎬 Filmbuddy — AI-Powered Movie Recommendation Platform
 
 Filmbuddy is a full-stack web application that delivers **AI-powered movie recommendations** with a focus on **user control and social interaction**.  
 Developed as part of my Bachelor’s Degree project at **University Politehnica of Bucharest**, it aims to solve the “filter bubble” problem found in traditional streaming platforms.
